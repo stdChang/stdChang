@@ -24,7 +24,7 @@
 
 📫 You can reach me at **steven.chang878@gmail.com**
 
-👹 Fun fact **I completed my Japanese minor with a cultural research paper on folklore in the game series, Monster Hunter**.
+👹 Fun fact **I completed my Japanese minor with a cultural research paper on folklore from the game series, Monster Hunter**.
 
 <br></br>
 
@@ -46,7 +46,6 @@
 <a href="https://linkedin.com/in/steven-chang47" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-chang47" height="30" width="40" /></a>
 
 <a href="https://github.com/stdChang" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" /></a>
-<br></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stdchang&label=Visitors&color=0254c0&style=flat" alt="stdchang" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=stdchang&label=Visitors&color=0254c0&style=flat" alt="stdchang" /> </p>
 </p>
 
